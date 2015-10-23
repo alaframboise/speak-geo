@@ -1,7 +1,7 @@
 # speak-geo
 Experimenting with geocoding and the Web Speech API
 
-[Try it live](http://alaframboise.github.io/speak-geo/index.html)
+[Try it live](http://apfister.github.io/speak-geo/index.html)
 
 ###Setup
 - clone or download repo
